@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1312646432714496168
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1312646432714496170}
+  - component: {fileID: 1312646432714496169}
+  m_Layer: 0
+  m_Name: Object Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1312646432714496170
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1312646432714496168}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.292212, y: 0.26853818, z: 203.2463}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1312646432714496169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1312646432714496168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 461d6e684bba2714d9420d46eff938e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  monster4_Attack_Pf: {fileID: 8648521857774196905, guid: 71429efc7c057534981636dca02f4de8,
+    type: 3}
+  monster5_Attack_Pf: {fileID: 8828797515302469469, guid: 0ad1d0c7f9b0c144caa2b795a678cab8,
+    type: 3}
+  monster6_Attack_Pf: {fileID: 2110364577909696371, guid: 4a4687cb06799d440b86704820821e9d,
+    type: 3}
+  monster7_Attack1_Pf: {fileID: 2110364577909696371, guid: 539bbaf9caeaea64d898d6b5b7d03918,
+    type: 3}
+  monster7_Attack2_Pf: {fileID: 2110364577909696371, guid: 464f6b619b68dac46906f2a14504e851,
+    type: 3}
+  monster7_Attack3_Pf: {fileID: 2110364577909696371, guid: c292ea58ac8542940bba1592fa3a6a2f,
+    type: 3}
+  monster8_Attack1_Pf: {fileID: 2110364577909696371, guid: 2ebccc69648aec940b5939e29b0ee725,
+    type: 3}
+  monster8_Attack2_Pf: {fileID: 2110364577909696371, guid: f5882e27a854f5146ab3a62ddd405516,
+    type: 3}
+  monster8_Attack3_Pf: {fileID: 2110364577909696371, guid: ad5b981d647a6f5428b066a4145354e9,
+    type: 3}
+  monster9_Attack_Pf: {fileID: 0}
